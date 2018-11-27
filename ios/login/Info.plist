@@ -29,6 +29,10 @@
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
+	<!-- GeoLocation -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+	<key>NSAppTransportSecurity</key>
 	<array>
 		<string>armv7</string>
 	</array>
